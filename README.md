@@ -103,6 +103,6 @@ The neural network successfully learned patterns in news text and achieved high 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-- Your Name
+- YISEHAK ALELIGN
